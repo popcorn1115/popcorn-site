@@ -14,10 +14,11 @@ export default defineConfig({
 		nav,
 		sidebar: [
 			{
-				text: 'Examples',
+				text: '面试八股文',
 				items: [
-					{ text: 'Markdown Examples', link: '/markdown-examples' },
-					{ text: 'Runtime API Examples', link: '/api-examples' }
+					{ text: 'HTML', link: '/fe/interview/html/index' },
+					{ text: 'CSS', link: '/api-examples' },
+					{ text: 'JavaScript', link: '/fe/interview/JavaScript/index' }
 				]
 			}
 		],
